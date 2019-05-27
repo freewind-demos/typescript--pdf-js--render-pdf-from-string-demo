@@ -1,8 +1,6 @@
 {
   "scripts": {
-    "server": "http-server . -c-1 -p 46345 --cors",
-    "dev": "webpack-dev-server --open",
-    "bundle": "webpack --display-modules"
+    "dev": "webpack-dev-server --open"
   },
   "dependencies": {
     "jquery": "3.4.1"
